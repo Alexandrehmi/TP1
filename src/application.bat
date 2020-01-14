@@ -1,4 +1,6 @@
-###application.bat - 201X - Himeuri###
-echo "Copyright company - 201X"
-echo "Build : 10:00"
-echo "version 1.1"
+### application.bat - 201x - Himeuri ###
+version = "2"
+build_hour = "11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
