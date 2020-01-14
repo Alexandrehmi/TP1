@@ -1,5 +1,0 @@
-81e812a display copyright
-58705e3 Add build time
-6023a5b Add build time
-1c57844 Initial commit
-e159509 Initial commit
